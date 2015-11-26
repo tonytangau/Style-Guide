@@ -1,5 +1,5 @@
 # Imdex CSS/SASS style guide
-> A list of recommended CSS/SASS format rules for HUB V3
+> A list of recommended CSS/SASS format rules
 
 ## Class names
 - Avoid excessive and arbitrary shorthand notation, use meaningful names.
